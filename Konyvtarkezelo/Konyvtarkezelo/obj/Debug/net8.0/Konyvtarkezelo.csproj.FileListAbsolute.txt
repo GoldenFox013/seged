@@ -1,0 +1,14 @@
+C:\Users\user\Documents\SOB\Redai\vizsgafeladatok\Konyvtarkezelo\Konyvtarkezelo\bin\Debug\net8.0\Konyvtarkezelo.exe
+C:\Users\user\Documents\SOB\Redai\vizsgafeladatok\Konyvtarkezelo\Konyvtarkezelo\bin\Debug\net8.0\Konyvtarkezelo.deps.json
+C:\Users\user\Documents\SOB\Redai\vizsgafeladatok\Konyvtarkezelo\Konyvtarkezelo\bin\Debug\net8.0\Konyvtarkezelo.runtimeconfig.json
+C:\Users\user\Documents\SOB\Redai\vizsgafeladatok\Konyvtarkezelo\Konyvtarkezelo\bin\Debug\net8.0\Konyvtarkezelo.dll
+C:\Users\user\Documents\SOB\Redai\vizsgafeladatok\Konyvtarkezelo\Konyvtarkezelo\bin\Debug\net8.0\Konyvtarkezelo.pdb
+C:\Users\user\Documents\SOB\Redai\vizsgafeladatok\Konyvtarkezelo\Konyvtarkezelo\obj\Debug\net8.0\Konyvtarkezelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\SOB\Redai\vizsgafeladatok\Konyvtarkezelo\Konyvtarkezelo\obj\Debug\net8.0\Konyvtarkezelo.AssemblyInfoInputs.cache
+C:\Users\user\Documents\SOB\Redai\vizsgafeladatok\Konyvtarkezelo\Konyvtarkezelo\obj\Debug\net8.0\Konyvtarkezelo.AssemblyInfo.cs
+C:\Users\user\Documents\SOB\Redai\vizsgafeladatok\Konyvtarkezelo\Konyvtarkezelo\obj\Debug\net8.0\Konyvtarkezelo.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\SOB\Redai\vizsgafeladatok\Konyvtarkezelo\Konyvtarkezelo\obj\Debug\net8.0\Konyvtarkezelo.dll
+C:\Users\user\Documents\SOB\Redai\vizsgafeladatok\Konyvtarkezelo\Konyvtarkezelo\obj\Debug\net8.0\refint\Konyvtarkezelo.dll
+C:\Users\user\Documents\SOB\Redai\vizsgafeladatok\Konyvtarkezelo\Konyvtarkezelo\obj\Debug\net8.0\Konyvtarkezelo.pdb
+C:\Users\user\Documents\SOB\Redai\vizsgafeladatok\Konyvtarkezelo\Konyvtarkezelo\obj\Debug\net8.0\Konyvtarkezelo.genruntimeconfig.cache
+C:\Users\user\Documents\SOB\Redai\vizsgafeladatok\Konyvtarkezelo\Konyvtarkezelo\obj\Debug\net8.0\ref\Konyvtarkezelo.dll
