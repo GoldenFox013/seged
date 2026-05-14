@@ -1,0 +1,17 @@
+VUE lépések
+
+npm install
+npm run dev
+npx json-server --watch db.json
+
+db.json módosítása:
+	szótár neve marad items, abban objektumok
+	ami a listában szerepel név az a db.json-ben title kulcsú
+	ami a listában szerepel kép az imageUrl kulcsú
+
+componentsben:
+	Navigation.vue: /items routerhez tartozó cím pl Könyvek, Cipők
+
+views-ban:
+	DataList.vue: cím pl Futócipők, Könyvek
+	details: értékelő skála arányai 10-es esetén *10, 5ös esetén *20
