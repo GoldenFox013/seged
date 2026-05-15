@@ -1,5 +1,10 @@
 VUE lépések
 
+npm create vite@latest my-project
+cd my-project
+npm install tailwindcss @tailwindcss/vite
+https://tailwindcss.com/docs/installation/using-vite
+
 npm install
 npm run dev
 npx json-server --watch db.json
