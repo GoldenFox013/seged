@@ -1,4 +1,17 @@
+C# Win API
+ASP.NET Core Web API
+
 1. Projektnévre kattintva: package-ket beleírni
 2. Program.cs: DB connectiont beállítani
-3. Model mappa létrehozása, bele: Konyv.cs, ebben: id, nev, stb
-4. Data mappa létrehozása, bele: 
+  using ... .Data
+  using Microsoft...
+3. Model mappa létrehozása, bele: Konyv.cs, ebben: id, nev, stb {get; set;}
+4. Data mappa létrehozása, bele: KonyvContext.cs
+  using ... .Model
+  using Microsoft...
+  public class ... : DbContext
+    public KonyvContext (DbContextOptions<...> options) : base(options) {}
+    public DbSet<Konyv> Konyvek {get; set;}
+5. PM> Add-Migration Initial
+       Update-Database
+6. Controller mappa: add -> Controller... -> API, 3. -> kiválasztásos -> kész endpointok
