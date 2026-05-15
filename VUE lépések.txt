@@ -3,6 +3,8 @@ VUE lépések
 npm create vite@latest my-project
 cd my-project
 npm install tailwindcss @tailwindcss/vite
+VAGY
+npm install tailwindcss @tailwindcss/postcss postcss
 https://tailwindcss.com/docs/installation/using-vite
 
 npm install
