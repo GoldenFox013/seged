@@ -1,0 +1,4 @@
+1. Projektnévre kattintva: package-ket beleírni
+2. Program.cs: DB connectiont beállítani
+3. Model mappa létrehozása, bele: Konyv.cs, ebben: id, nev, stb
+4. Data mappa létrehozása, bele: 
